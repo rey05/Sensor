@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="angel.reynaldo.sensor.SensorProximidad">
+
+   <item
+       android:id="@+id/iniciarp"
+       android:title="Iniciar Sensor"
+       android:orderInCategory="100"
+       app:showAsAction="never"/>
+
+    <item android:id="@+id/detenerp"
+        android:title="Detener Sensores"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/limpiarp"
+        android:title="Limpiar Pantalla"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

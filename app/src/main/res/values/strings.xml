@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SENSORES</string>
+    <string name="hello_world">ELIGE UNA DE LAS SIGUIENTES OPCIONES:</string>
+    <string name="action_settings">Settings</string>
+    <string name="senprox">Sensor de Proximidad</string>
+    <string name="senp"></string>
+    <string name="sensac">Acelerometro</string>
+    <string name="Sena">Acelerometro</string>
+    <string name="sel">Sensor de Luz</string>
+    <string name="Senl">Sensor de Luz</string>
+    <string name="Salir">Salir</string>
+
+
+    <string name="title_activity_sensor_proximidad">Sensor de Proximidad</string>
+
+    <string name="title_activity_senaceler">Sensor Acelerometro</string>
+
+
+    <string name="title_activity_senl">Sensor de Luz</string>
+
+</resources>

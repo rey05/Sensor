@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/SenProx"
+        android:title="@string/senprox" />
+
+    <item
+        android:id="@+id/Sena"
+        android:title="@string/Sena" />
+
+    <item
+        android:id="@+id/Senl"
+        android:title="@string/Senl" />
+
+    <item
+        android:id="@+id/salir"
+        android:title="@string/Salir" />
+
+</menu>
